@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Name=Brillo
+Comment=Configuración del brillo
+Exec=/bin/sh "/home/USER/Brillo/brightness"
+Icon=/home/USER/Brillo/controlBrillo.png
+Terminal=false
+Type=Application
